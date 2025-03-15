@@ -6,7 +6,7 @@ export default function Home() {
     <Layout>
       <div className="text-center py-12">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          مرحباً بك في Root & Rize
+          مرحباً بك في Root N Rize
         </h1>
         <p className="text-xl text-gray-600 mb-8">
           مجلتك اليومية الذكية لتتبع إنجازاتك وتحقيق أهدافك
@@ -51,7 +51,7 @@ export default function Home() {
         <div className="text-center">
           <h2 className="text-3xl font-bold mb-4">ابدأ رحلتك اليوم</h2>
           <p className="text-xl text-gray-600 mb-8">
-            انضم إلى الآلاف من المستخدمين الذين يحققون أهدافهم مع Root & Rize
+            انضم إلى الآلاف من المستخدمين الذين يحققون أهدافهم مع Root N Rize
           </p>
           <Link href="/register" className="btn-primary text-lg">
             سجل الآن
