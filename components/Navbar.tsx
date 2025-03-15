@@ -9,7 +9,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center space-x-2 rtl:space-x-reverse">
-            <span className="text-2xl font-bold text-blue-600">Root & Rize</span>
+            <span className="text-2xl font-bold text-blue-600">Root N Rize</span>
           </Link>
 
           <div className="hidden md:flex items-center space-x-4 rtl:space-x-reverse">

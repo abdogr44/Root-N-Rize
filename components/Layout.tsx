@@ -8,7 +8,7 @@ interface LayoutProps {
   title?: string;
 }
 
-export default function Layout({ children, title = 'Root & Rize - مجلتي اليومية الذكية' }: LayoutProps) {
+export default function Layout({ children, title = 'Root N Rize - مجلتك اليومية الذكية' }: LayoutProps) {
   return (
     <div className="min-h-screen flex flex-col">
       <Head>
