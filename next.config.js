@@ -21,12 +21,12 @@ const nextConfig = {
     ];
     return config;
   },
-  // تكوين الصفحات
+  // Page configuration
   pageExtensions: ['tsx', 'ts', 'jsx', 'js'],
-  // تكوين الصور
+  // Image configuration
   images: {
     disableStaticImages: true,
-    domains: ['ukmaqdzqwalaxpsqklcy.supabase.co'], // إذا كنت تستخدم Supabase للصور
+    domains: ['ukmaqdzqwalaxpsqklcy.supabase.co'], // Supabase storage domain
   },
 }
 

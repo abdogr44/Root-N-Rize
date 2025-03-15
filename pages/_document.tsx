@@ -2,10 +2,10 @@ import { Children } from 'react';
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { AppRegistry } from 'react-native';
 
-// تسجيل التطبيق
+// Register the application
 AppRegistry.registerComponent('Main', () => Main);
 
-// حل مشكلة الأنماط في React Native Web
+// Fix React Native Web styles
 const style = `
   html, body, #__next {
     display: flex;
